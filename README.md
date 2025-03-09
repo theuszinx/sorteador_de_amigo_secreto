@@ -16,7 +16,7 @@ Projeto simples de sorteio de amigo secreto, feito com HTML, CSS e JavaScript. O
 ## Descrição do projeto 
 
 <p align="justify">
-  Projeto interativo de sorteio de amigo secreto, desenvolvido com HTML, CSS e JavaScript. A aplicação permite que os usuários insiram seus nomes, realizem o sorteio e obtenham automaticamente o nome dd amigo secreto. 
+  Projeto interativo de sorteio de amigo secreto, desenvolvido com HTML, CSS e JavaScript. A aplicação permite que os usuários insiram seus nomes, realizem o sorteio e obtenham automaticamente o nome do amigo secreto. 
   O design é responsivo e intuitivo, com animações suaves para tornar a experiência divertida e envolvente. Ideal para grupos de amigos ou colegas de trabalho, facilitando o tradicional sorteio de presentes de forma simples e prática.
 </p>
 
